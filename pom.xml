@@ -25,7 +25,7 @@
         </dependency>
     </dependencies>
     <build>
-        <finalName>springboot_localjenkins</finalName>
+        <finalName>springboot1</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
